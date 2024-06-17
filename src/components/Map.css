@@ -1,0 +1,16 @@
+.css-13nl15t {
+    top: 60px !important;
+    height: 160px !important;
+}
+.css-1q6cf6c-MuiSlider-root {
+    width: 8px !important;
+    color: #1484e5 !important;
+}
+.slider-container {
+    /* background: rgba(255, 255, 255, 0.8); */
+    border-radius: 8px;
+    padding: 10px;
+  }
+.css-13nl15t {
+    z-index: 1000; 
+}
